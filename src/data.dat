@@ -1,0 +1,24 @@
+AI; КОМПЬЮТЕР; COMPUTER
+Human; ЧЕЛОВЕК; HUMAN
+ErrShip; Ошибка в координате расположения. Повторите.; Error in the location coordinate. Repeat.
+ErrShoot; ошибка; error
+miss; мимо; miss 
+was; был; it was
+hit; попал; hit
+kill; убил; kill
+win; ПОБЕДА !!; VICTORY !!
+InputShip; Укажите координату кормы корабля и курс (U/D/R/L) через пробел (или нажмите "ENTER" для AUTO); Set the stern's coordinate of the ship and the course (U/D/R/L) separated by space (or press "ENTER" for AUTO)
+InputShip1; Укажите координату корабля (или нажмите "ENTER" для AUTO); Set the coordinate of the ship (or press "ENTER" for AUTO)
+InputDeck; {}-палубный корабль; {}-decks ship
+InputDeck1; 1-палубный корабль; 1-deck ship
+InputShoot; Укажите координату выстрела (или нажмите "ENTER" для AUTO); Set the coordinate of the shoot (or press "ENTER" for AUTO)
+InputContinue; Еще раз? Введите '{}' - для продолжения или нажмите "ENTER" для выхода; Again? Type '{}' - to continue or press 'ENTER' to exit
+ctrlC; Очень жаль...; It is really pity...
+Bye; До свидания...; Good bye...
+Title; МОРСКОЙ БОЙ; SEA BATTLE
+InputShip_TK; Укажите координату кормы {}-палубного корабля (или нажмите "<<   >>" для AUTO); Set the stern's coordinate of the {}-decks ship (or press "<<   >>" for AUTO)
+InputCourse_TK; Укажите курс (соседнюю клетку) корабля; Set the course (the adjacent cell) of the ship
+InputShip1_TK; Укажите координату 1-палубного корабля (или нажмите "<<   >>" для AUTO); Set the coordinate of the 1-deck ship (or press "<<   >>" for AUTO)
+InputShoot_TK; Укажите координату выстрела (или нажмите "<<   >>" для AUTO); Set the coordinate of the shoot (or press "<<   >>" for AUTO)
+InputContinue_TK; Еще раз? Нажмите "<<   >>" для продолжения; Again? Press "<<   >>" to continue
+InputInterface; Выберете интерфейс CMD / [TK]; Choose the interface CMD / [TK]
